@@ -35,7 +35,7 @@ Once the application is running, you can interact with it through the graphical 
     Click on the Pause button to pause the currently playing song.
     Use the Next and Previous buttons to navigate between songs in the playlist.
     Adjust the volume using the volume slider.
-    Can add more songs of you wish by adding theme in the music folder in the directory.
+    Can add more songs of you wish by adding them in the music folder in the directory.
 
 ## Contributing
 
