@@ -40,3 +40,9 @@ Once the application is running, you can interact with it through the graphical 
 ## Contributing
 
 Contributions to the project are welcome! Please fork the repository, make your changes, and submit a pull request.
+
+## Images
+
+![Screenshot from 2024-03-04 14-45-35](https://github.com/yusakukudo/Music_Player_java/assets/146631572/836905ef-217b-4ba2-a21a-10c9d67b9481)
+
+
